@@ -1,2 +1,2 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1ADuu3wVPjk_A2uI1eNVD2aAOoCZxwOnu
+  /: http://localhost:4504/sites.html/content/my-site
